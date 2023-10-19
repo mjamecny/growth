@@ -10,3 +10,16 @@ body {
   line-height: 1.5;
   background: #fff;
 }
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  width: 100%;
+}
